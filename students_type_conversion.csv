@@ -1,0 +1,16 @@
+StudentID,Name,Age,Marks,JoinDate,Active,City,StudyTime,Fees
+ST101,Aarav,20,85,2025-01-15,Yes,Delhi,2 days,45000.50
+ST102,Diya,19,92,18/02/2025,No,Mumbai,1 day,52000
+ST103,Rohan,twenty-one,78,2025/03/05,yes,Pune,3 days,48000.75
+ST104,Priya,20,88,"March 12, 2025",NO,Delhi,5 hours,50000
+ST105,Arjun,22,Absent,2025-04-01,Y,Delhi,2 days 4 hours,61000
+ST106,Neha,,81,01-05-2025,N,Jaipur,1 day 12 hours,47000.25
+ST107,Rahul,20,67,2025-13-01,Yes,Delhi,invalid,42000
+ST108,Kavya,20,87,2025-06-10,No,Mumbai,4 days,53000
+ST109,Vivek,22,84,10 Jul 2025,TRUE,Pune,36 hours,49500
+ST110,Meera,21,76,2025-08-20,FALSE,Jaipur,2 days,46000
+ST111,Ishaan,19,91.5,2025-09-02,1,Delhi,12 hours,55000.80
+ST112,Ananya,20,89,02/10/2025,0,Mumbai,,57500
+ST113,Kabir,21, 73 ,2025-11-11,yes,Pune,1 day,44000
+ST114,Sara,unknown,95,not available,no,Delhi,3 days,62000
+ST115,Dev,23,82,2025-12-05,,Jaipur,48 hours,51000.40
