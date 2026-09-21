@@ -1,0 +1,27 @@
+Employee_Code,Employee_Name,Department,City,Join_Date,Gender,Experience_Years,Monthly_Salary,Performance_Rating,Projects_or_Deals,Annual_Value,Status
+EMP-2026-001,Aarav Shah,Sales,Ahmedabad,2021-06-14,M,6,72000,8.7,118,1350000,Active
+EMP-2026-002,Diya Patel,Marketing,Ahmedabad,2023-01-09,F,3,54000,9.1,42,610000,Active
+EMP-2026-003, rohan mehta ,Sales,Surat,2022-08-18,M,4,61000,7.8,93,980000,Active
+EMP-2026-004,Priya Desai,Finance,Vadodara,2020-02-11,F,7,83000,9.3,0,0,Active
+EMP-2026-005,Kabir Joshi,IT,Ahmedabad,2019-11-25,M,8,96000,8.9,0,0,Active
+EMP-2026-006,Meera Trivedi,Sales,Rajkot,2024-04-15,F,,47000,8.2,66,720000,Active
+EMP-2026-007,Ishaan Dave,Operations,Ahmedabad,2021-09-03,M,5,68000,7.5,0,0,Active
+EMP-2026-008,Nisha Rana,Marketing,Surat,2022-03-21,F,4,59000,8.8,51,690000,Active
+EMP-2026-009,Vivaan Shah,Finance,Ahmedabad,2018-07-16,M,9,105000,9.4,0,0,Active
+EMP-2026-010,Kavya Mehta,IT,Vadodara,2023-06-12,F,3,64000,8.5,0,0,Active
+EMP-2026-011,Arjun Patel,Sales,Ahmedabad,2020-10-05,M,6,76000,8.0,104,1210000,Active
+EMP-2026-012,Mahi Shah,Operations,Surat,2024-01-22,F,2,45000,7.9,0,0,Active
+EMP-2026-013,Dev Joshi,IT,Rajkot,2021-05-17,M,5,79000,8.6,0,0,Active
+EMP-2026-014,Anaya Desai,Marketing,Ahmedabad,2025-02-10,F,1,,8.1,28,390000,Active
+EMP-2026-015,Reyansh Modi,Sales,Vadodara,2017-12-04,M,10,118000,9.0,132,1510000,Active
+EMP-2026-016,Sara Khan,Finance,Rajkot,2022-09-19,F,4,71000,8.7,0,0,Active
+EMP-2026-017,Dhruv Patel,Operations,Vadodara,2020-06-29,M,7,82000,7.6,0,0,Active
+EMP-2026-018,Riya Shah,IT,Surat,2024-07-08,F,2,52000,8.4,0,0,Active
+EMP-2026-019,Yash Mehta,Sales,Ahmedabad,31-15-2025,M,1,39000,7.2,37,410000,Probation
+EMP-2026-020,Ira Patel,Marketing,Rajkot,2021-12-13,F,5,66000,9.0,47,730000,Active
+EMP-2026-021,Om Desai,Finance,Surat,2023-03-27,M,3,62000,,0,0,Active
+EMP-2026-022,Myra Joshi,IT,Ahmedabad,2020-08-31,F,6,88000,9.2,0,0,Active
+EMP-2026-023,Neil Shah,Operations,Rajkot,2019-04-08,M,8,91000,8.0,0,0,Active
+EMP-2026-024,Aanya Patel,Sales,Surat,2023-10-16,F,3,56000,8.6,78,840000,Active
+EMP-2026-008,Nisha Rana,Marketing,Surat,2022-03-21,F,4,59000,8.8,51,690000,Active
+EMP-2026-015,Reyansh Modi,Sales,Vadodara,2017-12-04,M,10,118000,9.0,132,1510000,Active

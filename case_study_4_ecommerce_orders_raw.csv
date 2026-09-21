@@ -1,0 +1,17 @@
+Order_ID,Customer_ID,Customer_Name,Email,Category,Product,Order_Date,Quantity,Unit_Price,Rating,City
+ORD-1001,C101,Aarav Shah,aarav101@gmail.com,Electronics,Mobile,12-06-2026,2,18500,4.5,Ahmedabad
+ORD-1002,C102,Diya Patel,diya.patel22@gmail.com,Fashion,Shoes,14-06-2026,1,3200,4.2,Surat
+ORD-1003,C103,Rohan Mehta,rohan_33@gmail.com,Electronics,Headphones,18-06-2026,3,2400,3.9,Ahmedabad
+ORD-1004,C104,Priya Desai,priya44@gmail.com,Home,Mixer,22-06-2026,1,5200,4.7,Vadodara
+ORD-1005,C105,Kabir Joshi,kabir.55@gmail.com,Fashion,Jacket,28-06-2026,2,4500,3.8,Rajkot
+ORD-1006,C106,Meera Trivedi,meera66@gmail.com,Electronics,Laptop,03-07-2026,1,62000,4.9,Ahmedabad
+ORD-1007,C107,Neel Shah,neel77@gmail.com,Home,Chair,08-07-2026,4,3500,4.1,Surat
+ORD-1008,C108,Isha Patel,isha88@gmail.com,Fashion,Bag,15-07-2026,2,2800,4.4,Vadodara
+ORD-1009,C101,Aarav Shah,aarav101@gmail.com,Electronics,Keyboard,21-07-2026,1,1900,4.0,Ahmedabad
+ORD-1010,C102,Diya Patel,diya.patel22@gmail.com,Home,Lamp,29-07-2026,3,1200,4.6,Surat
+ORD-1011,C109,Vivan Rana,vivan99@gmail.com,Electronics,Monitor,04-08-2026,2,14500,4.3,Rajkot
+ORD-1012,C110,Anaya Dave,anaya100@gmail.com,Fashion,Watch,11-08-2026,1,6500,4.8,Ahmedabad
+ORD-1013,C103,Rohan Mehta,rohan_33@gmail.com,Home,Table,17-08-2026,1,7800,3.7,Ahmedabad
+ORD-1014,C104,Priya Desai,priya44@gmail.com,Electronics,Tablet,24-08-2026,1,26000,4.5,Vadodara
+ORD-1015,C105,Kabir Joshi,kabir.55@gmail.com,Fashion,Shoes,30-08-2026,2,3400,4.0,Rajkot
+ORD-1016,C106,Meera Trivedi,meera66@gmail.com,Electronics,Server,31-08-2026,1,250000,4.9,Ahmedabad
